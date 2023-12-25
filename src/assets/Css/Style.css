@@ -1,0 +1,18 @@
+body {
+    direction: rtl;
+    text-align: right;
+    overflow-x: hidden;
+}
+
+html {
+    overflow-x: hidden;
+}
+
+img {
+    max-width: 100%;
+}
+
+
+
+
+
