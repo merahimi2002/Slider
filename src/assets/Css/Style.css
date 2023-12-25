@@ -1,6 +1,6 @@
 body {
-    direction: rtl;
-    text-align: right;
+    direction: ltr;
+    text-align: left;
     overflow-x: hidden;
 }
 
@@ -13,6 +13,7 @@ img {
 }
 
 
-
-
-
+.Navbar {
+    box-shadow: 0 10px 29px 0 rgb(33 43 70 / 10%);
+    padding: 15px !important;
+}
